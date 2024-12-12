@@ -1,5 +1,7 @@
 Investindo em Renda Fixa: Guia Prático para Iniciantes 📈
+
 📒 Descrição
+
 Este e-book de 5 páginas oferece uma introdução acessível e prática ao investimento em renda fixa, ajudando iniciantes a entender os conceitos fundamentais e como começar a investir com segurança.
 
 🤖 Tecnologias Utilizadas
@@ -11,6 +13,7 @@ IA Generativa Leonardo AI para criar a arte visual do e-book;
 Ferramenta Libre Office para edição.
 
 🧐 Processo de Criação
+
 Utilizei o "ChatGPT" para revisar minhas pesquisas sobre investimentos em renda fixa, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas que tornam o e-book visualmente atraente. Para finalizar, a montagem foi feita no Libre Office, uma ferramenta open-source para edição de texto.
 
 🚀 Resultados
